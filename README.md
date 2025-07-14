@@ -1,3 +1,3 @@
-![aadya](https://github.com/user-attachments/assets/)
+![aadya](src/aadya.jpg)
 # AADYA
 AI-Assisted quantum mechanical simulation package
